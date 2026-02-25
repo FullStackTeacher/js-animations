@@ -33,3 +33,7 @@ ul {
 .list .list-item .list-content .list-txt {
   padding: 1rem;
 }
+
+.list .list-item .list-content.click {
+  height: 6.5rem;
+}
